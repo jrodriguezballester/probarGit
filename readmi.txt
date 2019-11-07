@@ -1,0 +1,18 @@
+archivo de texto
+<<<<<<< HEAD
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec tempus tincidunt nibh, vestibulum volutpat urna gravida sit amet. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Aenean in vehicula quam. Duis nec pretium metus. Nam ut ligula nec nisi porta rhoncus. Sed congue luctus orci, id semper ante rhoncus et. Phasellus nunc mauris, blandit at tortor eget, egestas dictum dolor. In at scelerisque massa, sed tempor velit. Duis vestibulum orci at risus suscipit facilisis. Vivamus quis accumsan augue. Sed eget mattis ipsum. Nulla quis tortor at quam suscipit ullamcorper. Ut vehicula elit nec ante suscipit, vitae scelerisque dolor lobortis. Curabitur malesuada ante ac feugiat gravida. Aliquam erat volutpat. Aliquam et tempor lorem.
+
+Morbi tortor ante, egestas ut tempus eget, aliquet aliquam elit. Praesent in aliquam ipsum. Ut egestas commodo ex vitae laoreet. Phasellus vitae porttitor tortor. In vel blandit lorem. Donec placerat neque ut odio fringilla pretium. Sed aliquet lacus eget odio egestas, a condimentum mi fermentum. Sed placerat porttitor lectus, nec suscipit neque volutpat at. Cras blandit ipsum at pretium eleifend. Donec hendrerit, eros sed convallis rhoncus, libero enim pharetra tortor, eget semper lectus massa et turpis. Nullam sed elit quis mauris tincidunt bibendum. Nam a luctus eros, a pulvinar velit. Fusce non aliquet velit. Quisque sit amet venenatis turpis. Donec sollicitudin a mauris in consequat. Aliquam at semper dui, id venenatis lorem.
+
+In lorem metus, tincidunt at tincidunt non, vehicula nec ligula. Maecenas euismod justo orci, aliquam imperdiet elit tristique non. Duis eu massa lobortis nulla euismod interdum. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Pellentesque elementum est nulla, eu elementum massa mattis quis. Donec at faucibus mauris. Sed nec augue nibh. Praesent et egestas ex.
+
+Sed pharetra sodales erat a cursus. Aenean dolor turpis, convallis eu diam a, rhoncus pellentesque ex. Fusce dui dui, rhoncus eget ipsum non, blandit pulvinar felis. Nullam interdum, elit sit amet malesuada congue, metus orci efficitur nulla, at egestas enim justo ac ipsum. Cras ut nisl non augue posuere blandit ac in nibh. Aliquam interdum, velit eget egestas vulputate, enim est blandit ex, quis luctus nisl erat in neque. Fusce dignissim justo non risus aliquam vulputate. Nulla semper porttitor metus et sagittis. Ut tortor est, pharetra cursus erat egestas, consequat ornare enim. Nulla feugiat tortor quis lectus tincidunt, id porttitor dui rutrum. Curabitur faucibus volutpat volutpat. Nullam molestie, turpis a euismod ultrices, massa nibh euismod tortor, nec posuere lectus enim vitae dui. Fusce sit amet neque eu urna molestie convallis eget quis orci. Vestibulum vestibulum ligula eget elementum cursus. Nullam tincidunt consectetur diam non porttitor. Nullam sagittis mattis nisi eu varius.
+
+Donec vulputate lectus sit amet bibendum aliquet. Integer accumsan lacus quis magna feugiat sollicitudin. Ut efficitur, magna a hendrerit posuere, enim nisl tempus lectus, sit amet tempus ex nisi condimentum nulla. Quisque semper mauris varius, sagittis lacus eget, cursus turpis. Nam euismod leo in eros placerat posuere. In et leo nec velit hendrerit faucibus at sit amet nisi. Phasellus posuere nisl non sodales ullamcorper. Nullam faucibus neque neque, vel dignissim urna accumsan eget. Duis lacinia nisl sit amet mi interdum, vitae placerat enim rhoncus. Praesent pharetra sagittis enim, et iaculis ligula interdum et. Curabitur mollis placerat vulputate.
+=======
+esto lo escribo yo
+esto lo escribo yo
+esto lo escribo yo
+esto lo escribo yo
+esto lo escribo yo
+>>>>>>> 8ff0382... comitando
