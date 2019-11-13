@@ -15,4 +15,8 @@ esto lo escribo yo
 esto lo escribo yo
 esto lo escribo yo
 esto lo escribo yo
+<<<<<<< HEAD
 >>>>>>> origin/otraRama
+=======
+>>>>>>> 8ff0382... comitando
+>>>>>>> origin/master
